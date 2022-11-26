@@ -1,0 +1,60 @@
+C:\Users\user\Desktop\Саша(син)\Курсова робота\2\2\bin\Debug\2.exe.config
+C:\Users\user\Desktop\Саша(син)\Курсова робота\2\2\bin\Debug\2.exe
+C:\Users\user\Desktop\Саша(син)\Курсова робота\2\2\bin\Debug\2.pdb
+C:\Users\user\Desktop\Саша(син)\Курсова робота\2\2\obj\Debug\2.csprojAssemblyReference.cache
+C:\Users\user\Desktop\Саша(син)\Курсова робота\2\2\obj\Debug\_2.Form1.resources
+C:\Users\user\Desktop\Саша(син)\Курсова робота\2\2\obj\Debug\_2.Properties.Resources.resources
+C:\Users\user\Desktop\Саша(син)\Курсова робота\2\2\obj\Debug\2.csproj.GenerateResource.cache
+C:\Users\user\Desktop\Саша(син)\Курсова робота\2\2\obj\Debug\2.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Саша(син)\Курсова робота\2\2\obj\Debug\2.exe
+C:\Users\user\Desktop\Саша(син)\Курсова робота\2\2\obj\Debug\2.pdb
+C:\Users\ursol\Desktop\Страх небесный\2\2\bin\Debug\2.exe.config
+C:\Users\ursol\Desktop\Страх небесный\2\2\bin\Debug\2.exe
+C:\Users\ursol\Desktop\Страх небесный\2\2\bin\Debug\2.pdb
+C:\Users\ursol\Desktop\Страх небесный\2\2\obj\Debug\2.csprojAssemblyReference.cache
+C:\Users\ursol\Desktop\Страх небесный\2\2\obj\Debug\_2.Form1.resources
+C:\Users\ursol\Desktop\Страх небесный\2\2\obj\Debug\_2.Properties.Resources.resources
+C:\Users\ursol\Desktop\Страх небесный\2\2\obj\Debug\2.csproj.GenerateResource.cache
+C:\Users\ursol\Desktop\Страх небесный\2\2\obj\Debug\2.csproj.CoreCompileInputs.cache
+C:\Users\ursol\Desktop\Страх небесный\2\2\obj\Debug\2.exe
+C:\Users\ursol\Desktop\Страх небесный\2\2\obj\Debug\2.pdb
+C:\Users\ursol\Desktop\Proga\2\2\bin\Debug\2.exe.config
+C:\Users\ursol\Desktop\Proga\2\2\bin\Debug\2.exe
+C:\Users\ursol\Desktop\Proga\2\2\bin\Debug\2.pdb
+C:\Users\ursol\Desktop\Proga\2\2\obj\Debug\2.csprojAssemblyReference.cache
+C:\Users\ursol\Desktop\Proga\2\2\obj\Debug\_2.Form1.resources
+C:\Users\ursol\Desktop\Proga\2\2\obj\Debug\_2.Properties.Resources.resources
+C:\Users\ursol\Desktop\Proga\2\2\obj\Debug\2.csproj.GenerateResource.cache
+C:\Users\ursol\Desktop\Proga\2\2\obj\Debug\2.csproj.CoreCompileInputs.cache
+C:\Users\ursol\Desktop\Proga\2\2\obj\Debug\2.exe
+C:\Users\ursol\Desktop\Proga\2\2\obj\Debug\2.pdb
+C:\Users\user\Desktop\Саша(син)\Курсова робота\Shablons\Shablon2\2\2\bin\Debug\2.exe.config
+C:\Users\user\Desktop\Саша(син)\Курсова робота\Shablons\Shablon2\2\2\bin\Debug\2.exe
+C:\Users\user\Desktop\Саша(син)\Курсова робота\Shablons\Shablon2\2\2\bin\Debug\2.pdb
+C:\Users\user\Desktop\Саша(син)\Курсова робота\Shablons\Shablon2\2\2\obj\Debug\2.csprojAssemblyReference.cache
+C:\Users\user\Desktop\Саша(син)\Курсова робота\Shablons\Shablon2\2\2\obj\Debug\_2.Form1.resources
+C:\Users\user\Desktop\Саша(син)\Курсова робота\Shablons\Shablon2\2\2\obj\Debug\_2.Properties.Resources.resources
+C:\Users\user\Desktop\Саша(син)\Курсова робота\Shablons\Shablon2\2\2\obj\Debug\2.csproj.GenerateResource.cache
+C:\Users\user\Desktop\Саша(син)\Курсова робота\Shablons\Shablon2\2\2\obj\Debug\2.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Саша(син)\Курсова робота\Shablons\Shablon2\2\2\obj\Debug\2.exe
+C:\Users\user\Desktop\Саша(син)\Курсова робота\Shablons\Shablon2\2\2\obj\Debug\2.pdb
+C:\Users\user\Desktop\Саша(син)\Курсова робота\Shablons\Кубик 2\2\2\obj\Debug\2.csprojAssemblyReference.cache
+C:\Users\user\Desktop\Саша(син)\Курсова робота\Shablons\Кубик 2\2\2\obj\Debug\_2.Form1.resources
+C:\Users\user\Desktop\Саша(син)\Курсова робота\Shablons\Кубик 2\2\2\obj\Debug\_2.Properties.Resources.resources
+C:\Users\user\Desktop\Саша(син)\Курсова робота\Shablons\Кубик 2\2\2\obj\Debug\2.csproj.GenerateResource.cache
+C:\Users\user\Desktop\Саша(син)\Курсова робота\Shablons\Кубик 2\2\2\obj\Debug\2.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Саша(син)\Курсова робота\Shablons\Кубик 2\2\2\obj\Debug\2.exe
+C:\Users\user\Desktop\Саша(син)\Курсова робота\Shablons\Кубик 2\2\2\obj\Debug\2.pdb
+C:\Users\user\Desktop\Саша(син)\Курсова робота\Shablons\Кубик 2\2\2\bin\Debug\2.exe.config
+C:\Users\user\Desktop\Саша(син)\Курсова робота\Shablons\Кубик 2\2\2\bin\Debug\2.exe
+C:\Users\user\Desktop\Саша(син)\Курсова робота\Shablons\Кубик 2\2\2\bin\Debug\2.pdb
+C:\Users\user\Desktop\Саша(син)\Курсова робота\Shablons\Кубик с коментариями\2\2\bin\Debug\2.exe.config
+C:\Users\user\Desktop\Саша(син)\Курсова робота\Shablons\Кубик с коментариями\2\2\bin\Debug\2.exe
+C:\Users\user\Desktop\Саша(син)\Курсова робота\Shablons\Кубик с коментариями\2\2\bin\Debug\2.pdb
+C:\Users\user\Desktop\Саша(син)\Курсова робота\Shablons\Кубик с коментариями\2\2\obj\Debug\2.csprojAssemblyReference.cache
+C:\Users\user\Desktop\Саша(син)\Курсова робота\Shablons\Кубик с коментариями\2\2\obj\Debug\_2.Form1.resources
+C:\Users\user\Desktop\Саша(син)\Курсова робота\Shablons\Кубик с коментариями\2\2\obj\Debug\_2.Properties.Resources.resources
+C:\Users\user\Desktop\Саша(син)\Курсова робота\Shablons\Кубик с коментариями\2\2\obj\Debug\2.csproj.GenerateResource.cache
+C:\Users\user\Desktop\Саша(син)\Курсова робота\Shablons\Кубик с коментариями\2\2\obj\Debug\2.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Саша(син)\Курсова робота\Shablons\Кубик с коментариями\2\2\obj\Debug\2.exe
+C:\Users\user\Desktop\Саша(син)\Курсова робота\Shablons\Кубик с коментариями\2\2\obj\Debug\2.pdb
